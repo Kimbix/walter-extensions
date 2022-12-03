@@ -51,9 +51,3 @@
 ## **Sillies**
 
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - Discord rich presence so that your discord buds can see that you spent 10 hours coding last night.
-
-|Grado|0|30|45|60|90|
--|-|-|-|-|-
-√sen|0|1|2|3|4
-√cos|4|3|2|1|0
-||||2
